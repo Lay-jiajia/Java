@@ -50,6 +50,9 @@ public class Test {
             System.out.println("一般");
         }
     }
+
+
+
     public static void main1(String[] args){
         int a=10;
         int b=20;
